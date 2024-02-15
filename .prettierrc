@@ -1,0 +1,17 @@
+{
+    "singleQuote": true,
+    "printWidth": 9999,
+    "trailingComma": "all",
+    "arrowParens": "avoid",
+    "tabWidth": 4,
+    "vueIndentScriptAndStyle": true,
+    "singleAttributePerLine": true,
+    "overrides": [
+        {
+            "files": "*.json",
+            "options": {
+                "tabWidth": 4
+            }
+        }
+    ]
+}
