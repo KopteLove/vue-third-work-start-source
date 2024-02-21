@@ -1,10 +1,7 @@
 <template>
-    <app-layout>
-        <home-view />
-    </app-layout>
+    <DemoCounter />
 </template>
 
 <script setup>
-    import { AppLayout } from 'frontend/src/layouts';
-    import { HomeView } from 'frontend/src/views';
+    import DemoCounter from '@/demo0/DemoCounter.vue';
 </script>
