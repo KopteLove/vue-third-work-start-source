@@ -5,4 +5,6 @@
     </div>
 </template>
 
-<style scoped lang="scss"></style>
+<script setup>
+    import AppLayoutHeader from './AppLayoutHeader.vue';
+</script>

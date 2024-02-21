@@ -6,7 +6,7 @@
                 class="logo"
             >
                 <img
-                    src="@/assets/img/logo.svg"
+                    src="../assets/img/logo.svg"
                     alt="VueWork logo"
                     width="147"
                     height="23"
@@ -38,7 +38,7 @@
             class="header__user"
         >
             <img
-                src="@/assets/img/admin.jpg"
+                src="../assets/img/admin.jpg"
                 alt="Администратор"
                 width="40"
                 height="40"
@@ -48,7 +48,7 @@
         <div class="header__menu">
             <div class="user-menu">
                 <img
-                    src="@/assets/img/admin.jpg"
+                    src="../assets/img/admin.jpg"
                     width="56"
                     height="56"
                     alt="Администратор"
