@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-    import DemoCounter from '@/demo0/DemoCounter.vue';
+    import DemoCounter from '@/demo1/DemoCounter.vue';
 </script>
